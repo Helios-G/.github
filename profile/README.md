@@ -2,25 +2,23 @@
 HELIOS는 AI 진단기술의 접근성이 떨어지는 중소 병원 및 지역병원을 위한 AI 기반 연합 학습(Federated Learning)을 웹상에서 제공하는 플랫폼입니다. 
 
 ### 🛠 Tech Stack
-Frontend: React (Vite), Nginx
-Backend: Spring Boot 3, Java 21, JPA/Hibernate 
-AI/ML: Python, Websockets, aiohttp
-Database: PostgreSQL 15
-Infrastructure: Docker, Docker Compose, Cloud
+- Frontend: React (Vite), Nginx
+- Backend: Spring Boot 3, Java 21, JPA/Hibernate 
+- AI/ML: Python, Websockets, aiohttp
+- Database: PostgreSQL 15
+- Infrastructure: Docker, Docker Compose, Cloud
 
 ### ⚡ Quick Start (Docker)
 Docker을 설치해야함
-각 레포지토리를 한 폴더 아래로 클론 후
+각 레포지토리를 한 폴더 아래로 클론 후 아래 명령어 실행
 ```
 docker-compose up --build -d
 ```
-명령어 실행
 
-
-서비스 접속 주소
-Frontend: http://localhost:3000
-Backend API: http://localhost:8081
-AI Server: ws://localhost:8083
+개별 서비스 접속 주소
+- Frontend: http://localhost:3000
+- Backend API: http://localhost:8081
+- AI Server: ws://localhost:8083
 
 ### 📂 Project Structure
 helios_backend: Spring Boot 기반의 비즈니스 로직을 처리하는 메인 서버
