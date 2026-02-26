@@ -12,17 +12,20 @@ HELIOS는 AI 진단기술의 접근성이 떨어지는 중소 병원 및 지역�
 Docker을 설치해야함
 
 # 1. 메인 레포 클론
+```
 git clone https://github.com/Helios-G/HELIOS-Main.git
 cd HELIOS-Main
+```
 
 # 2. 클론한 메인레포 내에서 각 서비스 레포 클론
-git clone https://github.com/Helios-G/helios_backend.git
-git clone https://github.com/Helios-G/Heliosclient.git
-git clone https://github.com/Helios-G/helios_ai.git
+-git clone https://github.com/Helios-G/helios_backend.git
+-git clone https://github.com/Helios-G/Heliosclient.git
+-git clone https://github.com/Helios-G/helios_ai.git
 
 # 3. 실행
+```
 docker-compose up --build
-
+```
 
 개별 서비스 접속 주소
 - Frontend: http://localhost:3000
