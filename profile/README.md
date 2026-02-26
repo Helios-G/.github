@@ -18,9 +18,11 @@ cd HELIOS-Main
 ```
 
 # 2. 클론한 메인레포 내에서 각 서비스 레포 클론
--git clone https://github.com/Helios-G/helios_backend.git
--git clone https://github.com/Helios-G/Heliosclient.git
--git clone https://github.com/Helios-G/helios_ai.git
+```
+git clone https://github.com/Helios-G/helios_backend.git
+git clone https://github.com/Helios-G/Heliosclient.git
+git clone https://github.com/Helios-G/helios_ai.git
+```
 
 # 3. 실행
 ```
