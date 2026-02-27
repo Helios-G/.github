@@ -29,9 +29,12 @@ git clone https://github.com/Helios-G/helios_ai.git
 docker-compose up --build
 ```
 
-# 4. http://localhost:3000/ 접속
+# 4. 접속
+```
+http://localhost:3000/
+```
 
-개별 서비스 접속 주소
+### 개별 서비스 접속 주소
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8081
 - AI Server: ws://localhost:8083
