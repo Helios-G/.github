@@ -34,6 +34,10 @@ docker-compose up --build
 http://localhost:3000/
 ```
 
+# 5. 데모영상
+<img width="400" height="468" alt="Adobe Express - 영상앞부분" src="https://github.com/user-attachments/assets/181a8111-bea0-4c66-b159-d3e584e55ece" />
+
+
 ### 개별 서비스 접속 주소
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8081
