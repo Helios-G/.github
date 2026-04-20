@@ -44,12 +44,12 @@ http://localhost:3000/
 - AI Server: ws://localhost:8083
 
 ### 📂 Project Structure
-helios_backend: Spring Boot 기반의 비즈니스 로직을 처리하는 메인 서버
-helios_ai: 연합 학습 처리를 위한 파이썬 서버 
-Heliosclient: 사용자 인터페이스를 제공하는 웹 프론트엔드
+- helios_backend: Spring Boot 기반의 비즈니스 로직을 처리하는 메인 서버
+- helios_ai: 연합 학습 처리를 위한 파이썬 서버 
+- Heliosclient: 사용자 인터페이스를 제공하는 웹 프론트엔드
 
 ### 👥 Contributors
-김다인 ( ) : Backend & Infrastructure
-오예진 ( ) : Backend & Database
-김선민 ( ) : Frontend & Federated Learning
-최효빈 ( ) : Labeling & Federated Learning
+- 김다인 ( ) : Backend & Infrastructure
+- 오예진 ( ) : Database
+- 김선민 ( ) : Frontend & Federated Learning
+- 최효빈 ( ) : Labeling & Federated Learning
