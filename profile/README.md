@@ -35,7 +35,6 @@ http://localhost:3000/
 ```
 
 # 5. 데모영상
-<img width="400" height="468" alt="Adobe Express - 영상앞부분" src="https://github.com/user-attachments/assets/181a8111-bea0-4c66-b159-d3e584e55ece" />
 
 
 ### 개별 서비스 접속 주소
@@ -50,6 +49,5 @@ http://localhost:3000/
 
 ### 👥 Contributors
 - 김다인 ( ) : Backend & Infrastructure
-- 오예진 ( ) : Database
 - 김선민 ( ) : Frontend & Federated Learning
 - 최효빈 ( ) : Labeling & Federated Learning
