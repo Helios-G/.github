@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="제목을 입력해주세요" src="https://github.com/user-attachments/assets/7110c6e1-aebb-4d3c-a9c5-a147c35f0ee2" />
+
+
 ## HELIOS: Federated Learning Platform
 HELIOS는 AI 진단기술의 접근성이 떨어지는 중소 병원 및 지역병원을 위한 AI 기반 연합 학습(Federated Learning)을 웹상에서 제공하는 플랫폼입니다. 
 
